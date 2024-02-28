@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "http://localhost:4502/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
+    url: "https://drive.google.com/drive/folders/1pR3pUzV1y7HF_ri1FAxZyi3ATZbIGxqe"
     type: "markup"
     suffix: ".html"
